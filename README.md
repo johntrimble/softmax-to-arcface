@@ -10,3 +10,7 @@ This repository provides code and resources to accompany the blog post [From Sof
 	- Found in the `data/` directory.
 - **Environment Setup:**
 	- See `requirements.txt` and `compose.yaml` for dependencies and container setup.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
