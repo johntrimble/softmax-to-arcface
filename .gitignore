@@ -1,0 +1,14 @@
+# Ignore the data directory as it is used for storing datasets, models, and
+# other large files that should not be tracked by Git.
+/data
+# Ignore the .venv directory as it is specific to the local development
+# environment.
+.venv
+# Ignore the .env file as it is specific to the local development environment.
+/.env
+
+# Ignore python cache files
+__pycache__/
+*.py[cod]
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
