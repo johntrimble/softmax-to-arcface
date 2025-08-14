@@ -1,6 +1,6 @@
 # Softmax to ArcFace: Code Repository
 
-This repository provides code and resources to accompany the blog post [From Softmax to ArcFace: Building Better Embeddings with Additive Angular Margins](https://example.com).
+This repository provides code and resources to accompany the blog post [From Softmax to ArcFace: Building Better Embeddings with Additive Angular Margins](https://www.johntrimble.com/posts/from-softmax-to-arcface/).
 
 ## Contents
 
